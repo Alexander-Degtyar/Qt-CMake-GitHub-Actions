@@ -1,5 +1,6 @@
 Qt-CMake-HelloWorld
 ===================
+[![Qt CMake build](https://github.com/Alexander-Degtyar/Qt-CMake-GitHub-Actions/actions/workflows/qt_cmake.yml/badge.svg)](https://github.com/Alexander-Degtyar/Qt-CMake-GitHub-Actions/actions/workflows/qt_cmake.yml) 
 
 A Simple Qt5 Program Built with CMake 3.8.2
 
